@@ -99,7 +99,7 @@ public class UserdataTests {
                 .log().status()
                 .extract().body().asString().replace(" ", "");
 
-        Assert.assertEquals(userDataPage1, convertJsonToString("src/test/resources/reqres/json_testing_data/userdata_page1.json"));
-        Assert.assertEquals(userDataPage2, convertJsonToString("src/test/resources/reqres/json_testing_data/userdata_page2.json"));
+        Assert.assertEquals(userDataPage1, convertJsonToString("src/test/resources/reqres/test_data/td1.json"));
+        Assert.assertEquals(userDataPage2, convertJsonToString("src/test/resources/reqres/test_data/td2.json"));
     }
 }

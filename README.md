@@ -6,6 +6,7 @@
 
 
 - [**Libraries & Tools**](#libraries--tools)
+- [**Demo**](#demo)
 - [**Project Structure**](#project-structure)
 - [**How To Use**](#how-to-use)
   - [**Clone Repository**](#clone-repository)
@@ -22,55 +23,57 @@
 > **JUnit5 - Jupiter**: <em>5.9.2 - Testing Framework</em><br/>
 > **JUnit5 - Vintage**: <em>5.9.2 - Test Engine</em><br/>
 
+## **Demo**
+[<img src="https://img.youtube.com/vi/g-_bCtjSOrY/maxresdefault.jpg" width="50%">](https://youtu.be/g-_bCtjSOrY)
+
 ## **Project Structure**
 ```
+├── LICENSE
 ├── README.md
 ├── pom.xml
 └── src
     ├── main
-    │ ├── java
-    │ │ ├── api
-    │ │ │ ├── constants
-    │ │ │ │ └── Constants.java
-    │ │ │ ├── reqres_in
-    │ │ │ │ ├── pojo_request
-    │ │ │ │ │ ├── login_request
-    │ │ │ │ │ │ ├── SuccessfulLoginRequest.java
-    │ │ │ │ │ │ └── UnSuccessfulLoginRequest.java
-    │ │ │ │ │ ├── register_request
-    │ │ │ │ │ │ ├── SuccessfulRegisterRequest.java
-    │ │ │ │ │ │ └── UnSuccessfulRegisterRequest.java
-    │ │ │ │ │ └── user_request
-    │ │ │ │ │     └── CreateUserRequest.java
-    │ │ │ │ └── pojo_response
-    │ │ │ │     ├── list_resource_response
-    │ │ │ │     │ └── ListResourceResponse.java
-    │ │ │ │     ├── login_response
-    │ │ │ │     │ └── SuccessfulLoginResponse.java
-    │ │ │ │     ├── register_response
-    │ │ │ │     │ └── SuccessfulRegisterResponse.java
-    │ │ │ │     ├── user_response
-    │ │ │ │     │ └── CreatedUserResponse.java
-    │ │ │ │     └── userdata_response
-    │ │ │ │         └── UserdataResponse.java
-    │ │ │ ├── setup
-    │ │ │ │ └── Specifications.java
-    │ │ │ └── util
-    │ │ │     ├── JsonToStringConverter.java
-    │ │ │     └── ReadProperties.java
-    │ │ ├── pageObject
-    │ │ │ ├── CartPage.java
-    │ │ │ ├── CheckoutCompletePage.java
-    │ │ │ ├── CheckoutInformationPage.java
-    │ │ │ ├── CheckoutOverviewPage.java
-    │ │ │ ├── LoginPage.java
-    │ │ │ └── ProductsPage.java
-    │ │ └── utils
-    │ │     ├── BaseTest.java
-    │ │     ├── PropertyReader.java
-    │ │     └── WebEventListener.java
-    │ └── resources
-    │     └── log4j.properties
+    │ └── java
+    │     ├── api
+    │     │ ├── constants
+    │     │ │ └── Constants.java
+    │     │ ├── reqres_in
+    │     │ │ ├── pojo_request
+    │     │ │ │ ├── login_request
+    │     │ │ │ │ ├── SuccessfulLoginRequest.java
+    │     │ │ │ │ └── UnSuccessfulLoginRequest.java
+    │     │ │ │ ├── register_request
+    │     │ │ │ │ ├── SuccessfulRegisterRequest.java
+    │     │ │ │ │ └── UnSuccessfulRegisterRequest.java
+    │     │ │ │ └── user_request
+    │     │ │ │     └── CreateUserRequest.java
+    │     │ │ └── pojo_response
+    │     │ │     ├── list_resource_response
+    │     │ │     │ └── ListResourceResponse.java
+    │     │ │     ├── login_response
+    │     │ │     │ └── SuccessfulLoginResponse.java
+    │     │ │     ├── register_response
+    │     │ │     │ └── SuccessfulRegisterResponse.java
+    │     │ │     ├── user_response
+    │     │ │     │ └── CreatedUserResponse.java
+    │     │ │     └── userdata_response
+    │     │ │         └── UserdataResponse.java
+    │     │ ├── setup
+    │     │ │ └── Specifications.java
+    │     │ └── util
+    │     │     ├── JsonToStringConverter.java
+    │     │     └── ReadProperties.java
+    │     ├── pageObject
+    │     │ ├── CartPage.java
+    │     │ ├── CheckoutCompletePage.java
+    │     │ ├── CheckoutInformationPage.java
+    │     │ ├── CheckoutOverviewPage.java
+    │     │ ├── LoginPage.java
+    │     │ └── ProductsPage.java
+    │     └── utils
+    │         ├── BaseTest.java
+    │         ├── PropertyReader.java
+    │         └── WebEventListener.java
     └── test
         ├── java
         │ └── tests
@@ -84,14 +87,15 @@
         │         └── Tests.java
         └── resources
             ├── allure.properties
+            ├── log4j.properties
             ├── reqres
             │ ├── json_scheme
             │ │ ├── list_resource.json
             │ │ ├── single_user.json
             │ │ └── userdata_list.json
-            │ └── json_testing_data
-            │     ├── userdata_page1.json
-            │     └── userdata_page2.json
+            │ └── test_data
+            │     ├── td1.json
+            │     └── td2.json
             └── test.properties
 ```
 
