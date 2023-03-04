@@ -1,0 +1,173 @@
+2023-03-02 00:39:54 INFO  WebEventListener:36 - Navigating to: 'https://www.saucedemo.com/'
+2023-03-02 00:39:55 INFO  WebEventListener:40 - Navigated to:'https://www.saucedemo.com/'
+2023-03-02 00:39:55 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:55 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:55 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:55 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:55 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:55 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:55 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:55 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:55 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .title
+2023-03-02 00:39:56 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .title
+2023-03-02 00:39:56 INFO  WebEventListener:36 - Navigating to: 'https://www.saucedemo.com/'
+2023-03-02 00:39:56 INFO  WebEventListener:40 - Navigated to:'https://www.saucedemo.com/'
+2023-03-02 00:39:56 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:56 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:56 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:56 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:56 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:56 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:56 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #finish
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #finish
+2023-03-02 00:39:57 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #finish]
+2023-03-02 00:39:57 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #finish]
+2023-03-02 00:39:57 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .complete-header
+2023-03-02 00:39:57 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .complete-header
+2023-03-02 00:39:58 INFO  WebEventListener:36 - Navigating to: 'https://www.saucedemo.com/'
+2023-03-02 00:39:58 INFO  WebEventListener:40 - Navigated to:'https://www.saucedemo.com/'
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:58 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:39:58 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:39:58 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:39:58 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:39:58 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:39:58 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:39:58 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:39:58 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
+2023-03-02 00:39:59 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #cancel
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #cancel
+2023-03-02 00:39:59 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #cancel]
+2023-03-02 00:39:59 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #cancel]
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:39:59 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:39:59 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:39:59 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:39:59 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .title
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .title
+2023-03-02 00:39:59 INFO  WebEventListener:36 - Navigating to: 'https://www.saucedemo.com/'
+2023-03-02 00:39:59 INFO  WebEventListener:40 - Navigated to:'https://www.saucedemo.com/'
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #password
+2023-03-02 00:39:59 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:59 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:39:59 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.xpath: //button[contains(@data-test, 'remove')]
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:40:00 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> xpath: //button[contains(@data-test, 'remove')]]
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_badge
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:00 INFO  WebEventListener:36 - Navigating to: 'https://www.saucedemo.com/'
+2023-03-02 00:40:00 INFO  WebEventListener:40 - Navigated to:'https://www.saucedemo.com/'
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #user-name
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #password
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #password
+2023-03-02 00:40:00 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:40:00 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #login-button
+2023-03-02 00:40:00 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #login-button]
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-backpack
+2023-03-02 00:40:01 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-backpack]
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #add-to-cart-sauce-labs-bike-light
+2023-03-02 00:40:01 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #add-to-cart-sauce-labs-bike-light]
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: .shopping_cart_link
+2023-03-02 00:40:01 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: .shopping_cart_link]
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #checkout
+2023-03-02 00:40:01 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #checkout]
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #first-name
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #last-name
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #postal-code
+2023-03-02 00:40:01 INFO  WebEventListener:125 - Trying to find Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:40:01 INFO  WebEventListener:130 - Found Selenide Element By : By.cssSelector: #continue
+2023-03-02 00:40:01 INFO  WebEventListener:55 - Clicking on button: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
+2023-03-02 00:40:01 INFO  WebEventListener:60 - Clicked on: [[ChromeDriver: chrome on MAC (c68bddce3130febe8e901bf106779f3e)] -> css selector: #continue]
