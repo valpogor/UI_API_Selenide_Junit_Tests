@@ -29,9 +29,9 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <useSystemClassLoader>false</useSystemClassLoader>
-                    <argLine>
-                        javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-                    </argLine>
+<!--                    <argLine>-->
+<!--                        javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"-->
+<!--                    </argLine>-->
                     <properties>
                         <property>
                             <name>listener</name>
@@ -41,7 +41,7 @@
                     <systemProperties>
                         <property>
                             <name>allure.results.directory</name>
-                            <value>${project.target.directory}/allure-results</value>
+                            <value>target/allure-results</value>
                         </property>
                     </systemProperties>
                 </configuration>
