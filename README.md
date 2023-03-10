@@ -11,6 +11,7 @@
 - [**How To Use**](#how-to-use)
   - [**Clone Repository**](#clone-repository)
   - [**Building**](#building)
+  - [**Generate Allure report**](#Generate-Allure-Report)
   - [**Perform On Browsers**](#perform-on-browsers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -106,6 +107,11 @@
 ### **Building**
 
 > `mvn clean verify`
+
+### **Generate Allure report**
+
+> `allure serve target/allure-results`
+
 
 ### **Perform On Browsers**
 - chrome

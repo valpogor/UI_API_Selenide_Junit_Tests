@@ -35,4 +35,4 @@ padssword: "cityslicka"
 12. Verify GET List user data Equity
 13. Verify POST - created User
 14. Verify PUT - update User
-15. Bug - new user not added - after successfully added
+15. Bug - new user not addeded - after successfully added
