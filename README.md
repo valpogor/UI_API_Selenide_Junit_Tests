@@ -31,73 +31,66 @@
 ```
 ├── LICENSE
 ├── README.md
+├── UI_API_Tests.iml
 ├── pom.xml
-└── src
-    ├── main
-    │ └── java
-    │     ├── api
-    │     │ ├── constants
-    │     │ │ └── Constants.java
-    │     │ ├── reqres_in
-    │     │ │ ├── pojo_request
-    │     │ │ │ ├── login_request
-    │     │ │ │ │ ├── SuccessfulLoginRequest.java
-    │     │ │ │ │ └── UnSuccessfulLoginRequest.java
-    │     │ │ │ ├── register_request
-    │     │ │ │ │ ├── SuccessfulRegisterRequest.java
-    │     │ │ │ │ └── UnSuccessfulRegisterRequest.java
-    │     │ │ │ └── user_request
-    │     │ │ │     └── CreateUserRequest.java
-    │     │ │ └── pojo_response
-    │     │ │     ├── list_resource_response
-    │     │ │     │ └── ListResourceResponse.java
-    │     │ │     ├── login_response
-    │     │ │     │ └── SuccessfulLoginResponse.java
-    │     │ │     ├── register_response
-    │     │ │     │ └── SuccessfulRegisterResponse.java
-    │     │ │     ├── user_response
-    │     │ │     │ └── CreatedUserResponse.java
-    │     │ │     └── userdata_response
-    │     │ │         └── UserdataResponse.java
-    │     │ ├── setup
-    │     │ │ └── Specifications.java
-    │     │ └── util
-    │     │     ├── JsonToStringConverter.java
-    │     │     └── ReadProperties.java
-    │     ├── pageObject
-    │     │ ├── CartPage.java
-    │     │ ├── CheckoutCompletePage.java
-    │     │ ├── CheckoutInformationPage.java
-    │     │ ├── CheckoutOverviewPage.java
-    │     │ ├── LoginPage.java
-    │     │ └── ProductsPage.java
-    │     └── utils
-    │         ├── BaseTest.java
-    │         ├── PropertyReader.java
-    │         └── WebEventListener.java
-    └── test
-        ├── java
-        │ └── tests
-        │     ├── api
-        │     │ ├── LoginTests.java
-        │     │ ├── RegisterTests.java
-        │     │ ├── ResourceTests.java
-        │     │ ├── UserTests.java
-        │     │ └── UserdataTests.java
-        │     └── ui
-        │         └── Tests.java
-        └── resources
-            ├── allure.properties
-            ├── log4j.properties
-            ├── reqres
-            │ ├── json_scheme
-            │ │ ├── list_resource.json
-            │ │ ├── single_user.json
-            │ │ └── userdata_list.json
-            │ └── test_data
-            │     ├── td1.json
-            │     └── td2.json
-            └── test.properties
+├── src
+│├── main
+││└── java
+││    ├── api
+││    │├── reqres_in
+││    ││├── CreateUserRequest.java
+││    ││├── CreatedUserResponse.java
+││    ││├── ListResourceResponse.java
+││    ││├── SuccessfulLoginRequest.java
+││    ││├── SuccessfulLoginResponse.java
+││    ││├── SuccessfulRegisterRequest.java
+││    ││├── SuccessfulRegisterResponse.java
+││    ││├── UnSuccessfulLoginRequest.java
+││    ││├── UnSuccessfulLoginResponse.java
+││    ││├── UnSuccessfulRegisterRequest.java
+││    ││└── UserdataResponse.java
+││    │├── setup
+││    ││├── RequestApiService.java
+││    ││└── RequestSpecs.java
+││    │└── util
+││    │    ├── JsonToStringConverter.java
+││    │    └── ReadProperties.java
+││    ├── ui
+││    │└── pageObject
+││    │    ├── CartPage.java
+││    │    ├── CheckoutCompletePage.java
+││    │    ├── CheckoutInformationPage.java
+││    │    ├── CheckoutOverviewPage.java
+││    │    ├── LoginPage.java
+││    │    └── ProductsPage.java
+││    └── utils
+││        ├── PropertyReader.java
+││        ├── UIBaseTest.java
+││        └── WebEventListener.java
+│└── test
+│    ├── java
+│    │└── tests
+│    │    ├── api
+│    │    │├── LoginTests.java
+│    │    │├── RegisterTests.java
+│    │    │├── ResourceTests.java
+│    │    │├── UserTests.java
+│    │    │└── UserdataTests.java
+│    │    └── ui
+│    │        └── Tests.java
+│    └── resources
+│        ├── allure.properties
+│        ├── log4j.properties
+│        ├── reqres
+│        │├── json_scheme
+│        ││├── list_resource.json
+│        ││├── single_user.json
+│        ││└── userdata_list.json
+│        │└── test_data
+│        │    ├── td1.json
+│        │    └── td2.json
+│        └── test.properties
+└── testCases.txt
 ```
 
 ## **How To Use**
