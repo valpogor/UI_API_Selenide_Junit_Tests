@@ -1,8 +1,7 @@
-package api.reqres_in.pojo_response.login_response;
+package api.reqres_in;
 
 public class SuccessfulLoginResponse {
-
-    private String token;
+    private static String token;
 
     public SuccessfulLoginResponse(String token) {
         this.token = token;
@@ -11,11 +10,13 @@ public class SuccessfulLoginResponse {
     private SuccessfulLoginResponse() {
     }
 
-    public String getToken() {
+    public static String getToken() {
         return token;
     }
 
     public void setToken(String token) {
         this.token = token;
     }
+
+
 }

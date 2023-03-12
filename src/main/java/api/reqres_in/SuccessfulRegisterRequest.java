@@ -1,16 +1,16 @@
-package api.reqres_in.pojo_request.login_request;
+package api.reqres_in;
 
-public class SuccessfulLoginRequest {
+public class SuccessfulRegisterRequest {
 
     private String email;
     private String password;
 
-    public SuccessfulLoginRequest(String email, String password) {
+    public SuccessfulRegisterRequest(String email, String password) {
         this.email = email;
         this.password = password;
     }
 
-    private SuccessfulLoginRequest() {
+    private SuccessfulRegisterRequest() {
     }
 
     public String getEmail() {

@@ -1,9 +1,9 @@
-package api.reqres_in.pojo_response.register_response;
+package api.reqres_in;
 
 public class SuccessfulRegisterResponse {
 
     private Integer id;
-    private String token;
+    private static String token;
 
     public SuccessfulRegisterResponse(Integer id, String token) {
         this.id = id;
@@ -21,7 +21,7 @@ public class SuccessfulRegisterResponse {
         this.id = id;
     }
 
-    public String getToken() {
+    public static String getToken() {
         return token;
     }
 

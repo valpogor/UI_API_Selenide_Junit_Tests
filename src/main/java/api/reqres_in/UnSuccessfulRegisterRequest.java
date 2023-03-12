@@ -1,14 +1,14 @@
-package api.reqres_in.pojo_request.login_request;
+package api.reqres_in;
 
-public class UnSuccessfulLoginRequest {
+public class UnSuccessfulRegisterRequest {
 
     private String email;
 
-    public UnSuccessfulLoginRequest(String email) {
+    public UnSuccessfulRegisterRequest(String email) {
         this.email = email;
     }
 
-    private UnSuccessfulLoginRequest() {
+    private UnSuccessfulRegisterRequest() {
     }
 
     public String getEmail() {
