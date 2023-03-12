@@ -1,4 +1,4 @@
-package pageObject;
+package ui.pageObject;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
@@ -13,12 +13,12 @@ import static com.codeborne.selenide.Selenide.$$;
 public class CheckoutOverviewPage {
 
     //BUTTONS
-    private static final SelenideElement finishButton = $("#finish");
-    private static final SelenideElement cancelButton = $("#cancel");
+    private static final SelenideElement finishButton = $("#finish").as("Finish Button");
+    private static final SelenideElement cancelButton = $("#cancel").as("Cancel Button");
 
     //PRICE
-    private static final ElementsCollection itemPrice = $$(".inventory_item_price");
-    public static SelenideElement itemTotalPrice = $(".summary_subtotal_label");
+    private static final ElementsCollection itemPrice = $$(".inventory_item_price").as("Item Price");
+    public static SelenideElement itemTotalPrice = $(".summary_subtotal_label").as("Item Total Price");
 
     @Step("Click to finish button")
     public static void clickToFinishButton() {

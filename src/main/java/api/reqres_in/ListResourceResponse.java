@@ -1,4 +1,4 @@
-package api.reqres_in.pojo_response.list_resource_response;
+package api.reqres_in;
 
 public class ListResourceResponse {
 

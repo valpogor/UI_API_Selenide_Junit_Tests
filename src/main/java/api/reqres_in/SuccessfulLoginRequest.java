@@ -1,16 +1,21 @@
-package api.reqres_in.pojo_request.register_request;
+package api.reqres_in;
 
-public class SuccessfulRegisterRequest {
+import org.junit.Assert;
+import static org.hamcrest.Matchers.equalTo;
+import static api.setup.RequestSpecs.request;
+import static utils.PropertyReader.*;
+
+public class SuccessfulLoginRequest {
 
     private String email;
     private String password;
 
-    public SuccessfulRegisterRequest(String email, String password) {
+    public SuccessfulLoginRequest(String email, String password) {
         this.email = email;
         this.password = password;
     }
 
-    private SuccessfulRegisterRequest() {
+    private SuccessfulLoginRequest() {
     }
 
     public String getEmail() {

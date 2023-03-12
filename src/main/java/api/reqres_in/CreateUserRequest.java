@@ -1,4 +1,4 @@
-package api.reqres_in.pojo_request.user_request;
+package api.reqres_in;
 
 public class CreateUserRequest {
 
